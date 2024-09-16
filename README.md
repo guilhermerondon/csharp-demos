@@ -13,7 +13,7 @@ Contém projetos e exemplos relacionados a testes unitários. Aqui você encontr
 Inclui projetos que demonstram conceitos de programação orientada a objetos. Exemplos de uso de classes, herança, polimorfismo e outros conceitos fundamentais de POO estão disponíveis nesta pasta.
 
 ### `MinimalAPI`
-Abriga projetos que utilizam APIs mínimas (minimal APIs) em C#. Estes projetos mostram como criar e gerenciar APIs de forma simplificada e eficiente.
+Abriga projeto que utiliza API minima (minimal APIs) em C#. Este projeto mostra como criar e gerenciar APIs de forma simplificada e eficiente.
 
 ## Como Contribuir
 
